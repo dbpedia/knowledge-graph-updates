@@ -111,7 +111,7 @@ def publish_to_databus(grouped_files):
                 "@id": version_id,
                 "title": artifact_name,
                 "description": description,
-                "license": "http://purl.oclc.org/NET/rdflicense/cc-0",
+                "license": "https://dalicc.net/licenselibrary/Cc010Universal",
                 "distribution": distributions
             }]
         }
